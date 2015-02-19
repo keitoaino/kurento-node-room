@@ -8,9 +8,13 @@
     "url": "https://github.com/keitoaino/kurento-node-room"
   },
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
+    "coffee-script": "^1.9.1",
+    "express": "^3.2.6",
+    "kurento-client": "5.1.0",
+    "ws": "~0.4.32"
   },
+  "devDependencies": {},
   "engines": {
     "node": ">=0.10.0"
   }
