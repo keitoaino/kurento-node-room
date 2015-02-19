@@ -1,0 +1,17 @@
+{
+  "name": "kurento-node-room",
+  "version": "0.0.1",
+  "description": "Basic room functionality written in Node.js using kurento.",
+  "author": "Keito Aino <keitoaino@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keitoaino/kurento-node-room"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
